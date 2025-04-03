@@ -1,0 +1,12 @@
+streamlit
+flask
+spotipy
+streamlit
+PyMySQl
+pandas
+bcrypt
+kagglehub
+plotly.express
+matplotlib.pyplot
+seaborn
+re
